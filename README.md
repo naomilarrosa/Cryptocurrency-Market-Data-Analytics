@@ -1,5 +1,5 @@
 # Análisis del Mercado de Criptomonedas
-![](images\intro.jpg)
+![](https://github.com/naomilarrosa/Cryptocurrency-Market-Data-Analytics/blob/main/images/intro.jpg)
 ## Introducción
 
 El mundo de las criptomonedas ha experimentado un auge sin precedentes, y en medio de esta revolución financiera, esta empresa de servicios financieros se encuentra en una búsqueda constante de oportunidades para sus clientes. En este informe interactivo, presento un análisis exhaustivo respaldado por datos de la [API CoinGecko](https://www.coingecko.com/es/api/documentation), en el que desgloso y exploro a fondo el mercado de criptomonedas en los últimos 3 años.
