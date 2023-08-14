@@ -66,7 +66,7 @@ En síntesis, la capitalización de mercado refleja la relevancia y adopción de
 
 **Proporción de Criptomonedas en Alza vs. Baja**: La visualización de la proporción de criptomonedas en alza frente a las que están a la baja ofrece información valiosa sobre el sentimiento general del mercado. Puede ayudar a los inversores a entender cómo se inclina el equilibrio entre optimismo y pesimismo en un momento dado.
 
-![]([images\dashboard.PNG](https://github.com/naomilarrosa/Cryptocurrency-Market-Data-Analytics/blob/main/images/dashboard.PNG))
+![](https://github.com/naomilarrosa/Cryptocurrency-Market-Data-Analytics/blob/main/images/dashboard.PNG)
 
 **Este Dashboard interactivo lo pueden encontrar en el archivo [Crypto.pbix](\Crypto.pbix) junto con los datos utilizados.**
 **Y la extracción y análisis exploratorio en el archivo [ETL-EDA.ipynb](\ETL-EDA.ipynb)**
