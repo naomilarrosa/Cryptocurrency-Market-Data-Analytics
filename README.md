@@ -68,8 +68,8 @@ En síntesis, la capitalización de mercado refleja la relevancia y adopción de
 
 ![](https://github.com/naomilarrosa/Cryptocurrency-Market-Data-Analytics/blob/main/images/dashboard.PNG)
 
-**Este Dashboard interactivo lo pueden encontrar en el archivo [Crypto.pbix](\Crypto.pbix) junto con los datos utilizados.**
-**Y la extracción y análisis exploratorio en el archivo [ETL-EDA.ipynb](\ETL-EDA.ipynb)**
+**Este Dashboard interactivo lo pueden encontrar en el archivo [Crypto.pbix](https://github.com/naomilarrosa/Cryptocurrency-Market-Data-Analytics/blob/main/Crypto.pbix) junto con los datos utilizados.**
+**Y la extracción y análisis exploratorio en el archivo [ETL-EDA.ipynb](https://github.com/naomilarrosa/Cryptocurrency-Market-Data-Analytics/blob/main/ETL-EDA.ipynb)**
 
 ## Historia de las Criptomonedas
 
