@@ -10,7 +10,7 @@ A través de este informe, nos enfocaremos en una serie de KPIs clave que arroja
 
 Además, agregaré una explicación sobre la relevancia de las visualizaciones de proporción de criptomonedas en alza vs. baja como un indicador del sentimiento general del mercado.
 
-Las visualizaciones que presentamos incluyen el promedio de variación en un período de 24 horas por criptomoneda, la suma de volumen de operaciones por año, mes y día para cada criptomoneda, la suma de precios por año, mes y día para cada criptomoneda, y finalmente, la suma de capitalización de mercado por criptomoneda.
+Las visualizaciones que verán incluyen el promedio de variación en un período de 24 horas por criptomoneda, la suma de volumen de operaciones por año, mes y día para cada criptomoneda, la suma de precios por año, mes y día para cada criptomoneda, y finalmente, la suma de capitalización de mercado por criptomoneda.
 
 Invitamos a todos a sumergirse en este informe interactivo. A medida que exploramos estos KPIs y visualizaciones, esperamos que encuentren información valiosa que les permita comprender mejor el mercado de criptomonedas y tomar decisiones informadas y estratégicas.
 
