@@ -127,15 +127,15 @@ En este documento, encontrarás respuestas a algunas preguntas comunes relaciona
 
 ## ¿Qué factores consideraste al hacer recomendaciones para los inversores?
 
-Al formular recomendaciones, consideramos tanto el análisis técnico como los fundamentos de cada criptomoneda. Identificar tendencias alcistas y diversificar la cartera son aspectos clave. Además, enfatizamos la importancia de la gestión del riesgo a través de límites de inversión y órdenes stop-loss.
+Al formular recomendaciones, consideré tanto el análisis técnico como los fundamentos de cada criptomoneda. Identificar tendencias alcistas y diversificar la cartera son aspectos clave. Además, enfatizo la importancia de la gestión del riesgo a través de límites de inversión y órdenes stop-loss.
 
 ## ¿Cómo influyen los eventos externos en las tendencias del mercado de criptomonedas?
 
-Los eventos externos, como noticias regulatorias o desarrollos tecnológicos, pueden tener un impacto significativo en las tendencias del mercado. Por ejemplo, hemos observado que ciertas criptomonedas reaccionan de manera positiva a la adopción por parte de empresas importantes o a la integración de nuevas funcionalidades.
+Los eventos externos, como noticias regulatorias o desarrollos tecnológicos, pueden tener un impacto significativo en las tendencias del mercado. Por ejemplo, en las noticias se observa que ciertas criptomonedas reaccionan de manera positiva a la adopción por parte de empresas importantes o a la integración de nuevas funcionalidades.
 
 ## ¿Cómo puedes estar seguro de que las visualizaciones en el dashboard son precisas y representativas?
 
-Las visualizaciones se basan en datos obtenidos de fuentes confiables, como la API CoinGecko. Además, hemos realizado un análisis exhaustivo para asegurarnos de que los datos sean precisos y que las visualizaciones reflejen adecuadamente las tendencias del mercado. Además, hemos utilizado herramientas como Python y Pandas para procesar y analizar los datos.
+Las visualizaciones se basan en datos obtenidos de fuentes confiables, como la API CoinGecko. Además, he realizado un análisis exhaustivo para asegurarme de que los datos sean precisos y que las visualizaciones reflejen adecuadamente las tendencias del mercado. Además, he utilizado herramientas como Python y Pandas para procesar y analizar los datos.
 
 ## ¿Cómo afectan las tendencias macroeconómicas a las criptomonedas?
 
@@ -143,11 +143,11 @@ Las tendencias macroeconómicas, como la inflación o los cambios en las políti
 
 ## ¿Cuál es el papel de las criptomonedas más pequeñas y menos conocidas en el mercado?
 
-Aunque nos centramos en las criptomonedas con mayor capitalización de mercado en este análisis, las criptomonedas más pequeñas y menos conocidas también desempeñan un papel importante. A menudo, presentan oportunidades de crecimiento más significativas, pero también conllevan un mayor riesgo debido a su volatilidad.
+Aunque me centré en las criptomonedas con mayor capitalización de mercado en este análisis, las criptomonedas más pequeñas y menos conocidas también desempeñan un papel importante. A menudo, presentan oportunidades de crecimiento más significativas, pero también conllevan un mayor riesgo debido a su volatilidad.
 
 ## ¿Cómo puede alguien que no tiene experiencia en criptomonedas beneficiarse de este análisis?
 
-Nuestro análisis está diseñado para ser accesible para todos, independientemente de su nivel de experiencia en criptomonedas. Las visualizaciones y los conceptos clave se explican de manera clara. Además, las recomendaciones y consejos de gestión del riesgo son útiles para cualquier persona que esté considerando invertir en criptomonedas por primera vez.
+Mí análisis está diseñado para ser accesible para todos, independientemente de su nivel de experiencia en criptomonedas. Las visualizaciones y los conceptos clave se explican de manera clara. Además, las recomendaciones y consejos de gestión del riesgo son útiles para cualquier persona que esté considerando invertir en criptomonedas por primera vez.
 
 ## ¿Cuál es la importancia de las criptomonedas más allá de la inversión?
 
