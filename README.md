@@ -56,7 +56,7 @@ En resumen, al seleccionar las criptomonedas con mayor capitalización de mercad
 
 En síntesis, la capitalización de mercado refleja la relevancia y adopción de las criptomonedas en el mercado. La diversidad en el top 10 ilustra la variedad de casos de uso y tecnologías en el ecosistema de criptomonedas.
 
-## Análisis de KPIs/Visualizaciones
+## Análisis de Visualizaciones
 
 **Variación de 24 horas:** Examina las variaciones de precio en las últimas 24 horas para detectar tendencias y volatilidad. Identifica patrones y explora cómo estas variaciones pueden influir en las decisiones de inversión.
 
